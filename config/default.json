@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "cac04bef823e6095a909a030dbb9b05a",
+    "pageAccessToken": "EAADCYP0hVvkBADehZCBm6bUzERBQja1yqsVOVVg4U5i4CRYPZARtlg8Puyi6j6N8zZBoLGEa2oe2LCzBbcffSUfIJZCll66Up6h7rOQHgdmyl0huGaz3BSR1yUYczC00w8nGOx9yZCtDBuSFzNGRDBKUaD5Sajl11vus3TBnM7xwNx6K8Js9ZA",
+    "validationToken": "validationInMookMemory",
+    "serverURL": "https://facebook-crt-ctc.herokuapp.com/"
 }
